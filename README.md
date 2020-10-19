@@ -3,7 +3,7 @@
 If received data is in wrong order, lower the Baud Rate.
 ```
 
-![image](https://github.com/Bigpig4396/Serial-Port-Communication/blob/master/hello.png)
+![image](https://https://github.com/Bigpig4396/Serial-Port-Communication/blob/main/hello.png)
 
 
 /// COPYRIGHT NOTICE  
